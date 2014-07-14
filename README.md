@@ -3,7 +3,7 @@ grid-photoshop-action
 
 A Photoshop Action Set for the CareerBuilder Grid
 
-# How to Install
+## How to Install
 
 ###Open Terminal
 
